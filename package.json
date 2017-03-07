@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "author": "Rodrigo Ali",
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.2",
+    "moment": "^2.17.1",
     "node": "0.0.0"
   }
 }
